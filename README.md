@@ -1,4 +1,4 @@
-# 369Game
+# 구구단 게임
 ![image](https://user-images.githubusercontent.com/94346298/142767302-c0ce6684-e003-4a4f-a657-2c20c1e6b423.png)
 /
 
